@@ -1,6 +1,6 @@
 # algorithm-study
 
-repository fork -> branch 자기 이름으로 생성해서 커밋.
+자기 이름 branch에 커밋 후 pr
 
 # PR Format
 
